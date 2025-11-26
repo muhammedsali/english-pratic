@@ -1,0 +1,7 @@
+{
+  "name": "DevEnglish Mentor",
+  "description": "A comprehensive English learning assistant tailored for software engineering students, focusing on fluency, technical vocabulary, and daily speaking practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
